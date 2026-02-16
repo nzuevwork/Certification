@@ -25,3 +25,8 @@
 - - [Senior System Administrator Certificate (2026)](Senior_System_Administrator_2026.pdf)
 - [Diploma (KEUK 2014)](Education-Certifications/Diploma_KEUK_2014.pdf) *(to be added)*  
 - [Qualification Exam Certificate (2014)](Education-Certifications/Qualification_Exam_2014.pdf) *(to be added)*
+
+## Контакты
+
+GitHub: [https://github.com/nzuevwork](https://github.com/nzuevwork)
+Email: [n.zuev.work@gmail.com](mailto:n.zuev.work@gmail.com)
